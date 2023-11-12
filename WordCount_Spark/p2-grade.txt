@@ -1,0 +1,21 @@
+
+Grade:   /100
+
+Comments:
+
+Testing:
+	-Submission layout (5 points):
+		-The repository only contains required files
+		-The  repository does not contain unecessary files, such as .class files, input and output
+		folders
+	-Functional Requirements:
+		-Improvements in the index:
+			-Frequency count provided with file name (45 points):
+			-List of files is sorted by highest frequency count to the lowest (20 points):
+			-Files are sorted by name when frequency counts are equal (10 points):
+
+Design & documentation (20 points):
+	-README.md file (20 points):
+		-Are results provided in the README.md file as specified in the project description? (5 points)
+		-Reflection comparing MapReduce performance to Spark performance is provided (5 points)
+	-Code organization & style:
